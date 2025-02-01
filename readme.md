@@ -12,7 +12,7 @@ This project is a simple Node.js server.
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Chandanmaurya14/Server-Creation.git
 ```
 
 2. Navigate to the project directory:
